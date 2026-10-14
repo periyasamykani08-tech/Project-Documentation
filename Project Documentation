@@ -1,0 +1,17 @@
+# Project Documentation
+
+This repository contains comprehensive project documentation, user manuals, technical reports, and guidelines.
+
+## Overview
+The goal of this repository is to provide clear and complete documentation covering all aspects of the project lifecycle, from planning and design to development and deployment.
+
+## Contents
+- **Technical Reports:** Detailed architecture and design analysis.
+- **User Guides:** Setup instructions and usage manuals.
+- **API Reference:** Specifications and usage examples.
+- **Project Reports:** Final summary and project outcome documents.
+
+## Getting Started
+Clone this repository to access the documentation:
+```bash
+git clone [https://github.com/periyasamykani08-tech/Project-Documentation.git](https://github.com/periyasamykani08-tech/Project-Documentation.git)
